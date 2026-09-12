@@ -1,6 +1,7 @@
 ---
 title: Xeroth Player Wiki
 ---
+![[Xeroth.jpg]]
 # Xeroth
 
 Hopefully this works !!! This is the campaign wiki for **Xeroth**, the continent in which the campaign A Kinder World takes place.
