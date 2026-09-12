@@ -8,30 +8,22 @@ Hopefully this works !!! This is the campaign wiki for **Xeroth**, the continent
 
 This wiki contains information that your characters can reasonably know about the world, and will be updated as long as I can be bothered to do so.
 
-## Nations/Continents
+## Nations
 
-- [[The Kingdom of Asparath|Kingdom of Asparath]]
-- [[Merovar]]
-- [[Veyrwood]]
-- [[Laerynn]]
-- [[Khaldross]]
-- [[Rockbit Wastes]]
-- [[The Pit]]
+- [[Nations (Directory)|Nations]]
 
 ## Setting Lore
 
-- [[The Unmaking]]
+- [[Lore (Directory)|Lore]]
 
 ## Settlements
 
-- [[Cities]]
-- [[Towns]]
+- [[Cities (Directory)|Cities]]
+- [[Towns (Directory)|Towns]]
 
 ## Factions
 
-- [[The Lantern-Bearers]]
-- [[The Greylock Empire]]
-- [[The Coalition for Xerothian Prosperity]]
+- [[Factions (Directory)|Factions]]
 
 ## NPCs
 
