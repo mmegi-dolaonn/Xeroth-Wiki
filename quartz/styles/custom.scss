@@ -1,3 +1,35 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+:root {
+  --titleFont: "Cinzel", serif !important;
+  --headerFont: "Lora", serif !important;
+  --bodyFont: "Lora", serif !important;
+  --font-text: "Lora", serif !important;
+}
+
+/* Big page/site titles */
+h1,
+.article-title,
+.page-title {
+  font-family: "Cinzel", serif !important;
+}
+
+/* Subheadings */
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lora", serif !important;
+  font-weight: 700;
+}
+
+/* Sidebar / interface */
+.explorer,
+.explorer *,
+.search,
+.search *,
+button {
+  font-family: "Source Sans Pro", sans-serif !important;
+}
