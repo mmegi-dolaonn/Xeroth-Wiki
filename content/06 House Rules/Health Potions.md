@@ -1,3 +1,8 @@
+---
+tags:
+  - rule
+---
+
 In order to justify the prices against payoff of health potions, and to incentivise/allow their use to be effective, the following changes are made to any **Healing** potions.
 
 1) Instead of using an action to roll the amount of health you recover from a healing potion, you can instead make a choice. Either:

@@ -2,11 +2,12 @@
 title: Xeroth Player Wiki
 ---
 ![[Xeroth.jpg]]
-# Xeroth
 
-Hopefully this works !!! This is the campaign wiki for **Xeroth**, the continent in which the campaign A Kinder World takes place.
+This is the player-facing campaign wiki for **Xeroth**, the continent in which the campaign A Kinder World takes place.
 
-This wiki contains information that your characters can reasonably know about the world, and will be updated as long as I can be bothered to do so.
+This wiki contains information that your characters can reasonably know about the world at the current point in time, and will be updated as long as I can be bothered to do so.
+
+Any character-specific information will be held/commuicated in the relevant private channels, as to maintain your choice of character privacy or not.
 
 ## Nations
 
@@ -27,7 +28,7 @@ This wiki contains information that your characters can reasonably know about th
 
 ## NPCs
 
-- [[Placeholder for the king of Asparath]]
+- [[NPC (Directory)|NPCs]]
 
 ## Pantheon
 
@@ -35,4 +36,6 @@ This wiki contains information that your characters can reasonably know about th
 
 ## House Rules (Above Table)
 
-- [[01 Health Potions]]
+- [[Health Potions]]
+- [[Ban List]]
+- [[Multiclassing]]
