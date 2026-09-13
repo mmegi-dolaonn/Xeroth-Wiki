@@ -9,6 +9,7 @@ aliases:
 ---
 ![[KoA Emblem.png]]
 
+---
 The Kingdom of Apsarath is the youngest recognised nation of Xeroth. It emerged as a direct continuation of [[The Lantern-Bearers]] after [[The Unmaking]], with the Lantern-Bearers diaspora coming together to establish itself as a new sovereign state centralised in [[Solenne]], a city built from the ashes of the old capital of the defeated [[The Greylock Empire|Greylock Empire]].
 
 ## Government 

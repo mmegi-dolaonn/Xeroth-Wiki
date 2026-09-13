@@ -13,3 +13,5 @@ Current members of the Coalition include:
 - [[Merovar]]
 - [[Khaldross]]
 - [[Laerynn]]
+
+With verious individual parties from the [[Rockbit Wastes]] also interacting with the Coalition.

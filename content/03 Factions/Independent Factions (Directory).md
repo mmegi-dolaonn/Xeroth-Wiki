@@ -8,3 +8,5 @@ tags:
 ---
 The Independent Factions known to the party are as follows:
 
+- [[The Crimson Wall]]
+

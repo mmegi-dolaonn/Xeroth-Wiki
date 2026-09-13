@@ -3,8 +3,8 @@ tags:
   - faction
   - laerynn
 aliases:
-  - The High Council
-  - High Council
+  - The High Conclave
+  - Conclave
 ---
 ---
 The High Council of Laerynn is the operating government structure from the eponymous nation. Following old elven tradition while adapting to the new central identity of the continent, they typically favour more conservative attitudes, with the exception of the progression of magic in all of its forms. 

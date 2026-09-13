@@ -6,10 +6,19 @@ tags:
 ---
 ![[Khaldross Emblem.png]]
 
+--- 
 Khaldross, a nation of primarily Dwarves and Goliaths, is the continent's leading technology and military production centre. Due to its high levels of tool mastery, equipment and natural resources from the mountain range leading to better security and privacy, it was chosen as the meeting place for [[The Coalition for Xerothian Prosperity|The Coalition]], and is host to [[The Mandate Halls of Xeroth]] in an undisclosed mountain. 
 ## Government 
 
-The Dwarven population in Khaldross operates under an elected chieftain and close chosen council, the acting chieftain being chosen every 5 years. The large Goliath population is typically collected under smaller individual groups and gatherings spread throughout the mountains. There is a non-mountaineous collection of settlements, most commonly dwarven, human or a mix of the two in the southern lowlands of the country, all of which are beholden to the dwarven government.
+Khaldross is governed as an elective council, centred upon the major dwarven holds of Moradin’s Teeth and the settlements of the southern lowlands.
+
+Each recognised dwarven hold and major lowland settlement appoints or elects representatives to the **Council of Holds**, which serves as Khaldross’s principal legislative body. From among eligible candidates, the Council elects a **High Chieftain** every five years to act as head of government, commander of the national military and chief representative of Khaldross abroad.
+
+Upon election, the High Chieftain appoints a small executive council responsible for areas such as defence, mining, industry, infrastructure and foreign relations. Although the Chieftain possesses significant authority during emergencies, particularly in matters of defence, most taxation, legislation and national expenditure require the approval of the Council of Holds.
+
+The Goliath population of Khaldross is considerably less centralised. Most Goliath communities organise themselves into individual clans, travelling groups or mountain settlements, each maintaining its own leadership and customs. Recognised Goliath clans are largely autonomous in internal affairs but are expected to obey Khaldrossian law when dealing with the wider state and may send representatives to the Council on matters affecting their territory.
+
+The southern lowlands are governed more directly by the central government. Their predominantly dwarven, human and mixed settlements maintain local councils but ultimately fall under the authority of the Council of Holds and the High Chieftain.
 
 ## Geography 
 

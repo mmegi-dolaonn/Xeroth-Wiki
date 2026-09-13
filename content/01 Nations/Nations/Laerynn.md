@@ -6,6 +6,7 @@ tags:
 ---
 ![[Laerynn Emblem.png]]
 
+---
 # Nation Title 
 
 Laerynn is the continent's central hub for magical exploration and institution. While they don't hold a monopoly on Wizarding schools or Bard colleges, a vast majority, and certainly the best and most prestigious of those institutions are based in Laerynn. 
@@ -14,8 +15,11 @@ Historically an elven nation, it has recently opened up its borders for easier i
 
 ## Government 
 
-Laerynn operates under traditional Elven structure, with a High Council deciding on national matters and no central figurehead. The decisions and choices for councilmembers typically follow a gerontocracy, with many of the councilmembers
+ Laerynn is governed as a magocratic republic, with a lot of its political authority distributed between its major cities, magical institutions and scholarly bodies. National legislation is debated within [[The High Conclave of Laerynn]], whose members are drawn from representatives of recognised wizarding schools, bardic colleges, arcane guilds, civic governments and other institutions.
 
+The Conclave elects a High Chancellor to act as head of government and chief representative of Laerynn abroad. The Chancellor serves a fixed term and possesses large amounts of  executive authority, though major legislation, military commitments and changes to magical regulation require the approval of the Conclave.
+
+Political divisions within Laerynn most commonly concern the regulation of magical experimentation, the autonomy of academic institutions, access to magical education and the extent to which Laerynn should share its research with the wider continent. 
 ## Geography 
 
 Placeholder

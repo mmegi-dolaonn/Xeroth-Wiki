@@ -6,7 +6,8 @@ tags:
 ---
 ![[Merovar Emblem.png]]
 
-The most affluent country in Xeroth, Merovar controls much of the continental trade through its large coastline and access to the Maw, the large coastal line to the south of Xeroth which acts as a major docking hub. Most of the richest and most influential cities in Merovar, such as the capital [[Placeholder for Merovar Capital]], lie along the Maw and are home to most of the continent's nobles and country houses for various officials and leaders. 
+---
+The most affluent country in Xeroth, Merovar controls much of the continental trade through its large coastline and access to the Maw, the large coastal line to the south of Xeroth which acts as a major docking hub. Most of the richest and most influential cities in Merovar, such as [[Saltfront City]], lie along the Maw and are home to most of the continent's nobles and country houses for various officials and leaders. 
 
 To the north west of the country further from the Maw are a collection of vineyards and affluent countryside estates, mixed alongside much poorer and destitute farming colonies, with farms making up most of the non-coastal economy and the farming class providing much of what the cities on the coast trade.
 
