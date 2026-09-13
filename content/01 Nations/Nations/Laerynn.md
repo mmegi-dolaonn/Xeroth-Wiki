@@ -4,6 +4,8 @@ tags:
   - laerynn
 ---
 ---
+![[Laerynn Emblem.png]]
+
 # Nation Title 
 
 Laerynn is the continent's central hub for magical exploration and institution. While they don't hold a monopoly on Wizarding schools or Bard colleges, a vast majority, and certainly the best and most prestigious of those institutions are based in Laerynn. 

@@ -4,6 +4,8 @@ tags:
   - veyrwood
 ---
 ---
+![[Veyrwood Emblem.png]]
+
 # Nation Title 
 
 Placeholder 123

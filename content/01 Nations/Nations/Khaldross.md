@@ -4,6 +4,8 @@ tags:
   - khaldross
 ---
 ---
+![[Khaldross Emblem.png]]
+
 # Nation Title 
 
 Placeholder

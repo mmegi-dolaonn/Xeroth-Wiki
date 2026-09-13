@@ -7,6 +7,8 @@ aliases:
   - KoA
 ---
 ---
+![[KoA Emblem.png]]
+
 The Kingdom of Apsarath is the youngest recognised nation of Xeroth. It emerged from the political upheaval of the [[The Greylock Empire|Greylock Empire]] following its victory as the [[The Lantern-Bearers|Lantern-Bearers]] the end of [[The Unmaking]]. 
 
 ## Government 

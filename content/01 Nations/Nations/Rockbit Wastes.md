@@ -4,6 +4,8 @@ tags:
   - rockbit-wastes
 ---
 ---
+![[Rockbit Wastes Emblem.png]]
+
 # Nation Title 
 
 Placeholder
