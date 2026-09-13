@@ -2,9 +2,8 @@
 title: Xeroth Player Wiki
 ---
 ---
-![[Xeroth.jpg]]
+**Welcome Adventurers!**
 
----
 This is the player-facing campaign wiki for **Xeroth**, the continent in which the campaign A Kinder World takes place. 
 
 This wiki contains information that your characters can reasonably know about the world at the current point in time, and will be updated as long as I can be bothered to do so.
