@@ -9,18 +9,16 @@ This wiki contains information that your characters can reasonably know about th
 
 Any character-specific information will be held/communicated in the relevant private channels, as to maintain your choice of character privacy or not.
 
-## Nations
+## Places
 
 - [[Nations (Directory)|Nations]]
+- [[Cities (Directory)|Cities]]
+- [[Towns (Directory)|Towns]]
 
 ## Setting Lore
 
 - [[Lore (Directory)|Lore]]
-
-## Settlements
-
-- [[Cities (Directory)|Cities]]
-- [[Towns (Directory)|Towns]]
+- [[The Pantheon]]
 
 ## Factions
 
@@ -29,10 +27,6 @@ Any character-specific information will be held/communicated in the relevant pri
 ## NPCs
 
 - [[NPC (Directory)|NPCs]]
-
-## Pantheon
-
-- [[The Pantheon]]
 
 ## House Rules (Above Table)
 

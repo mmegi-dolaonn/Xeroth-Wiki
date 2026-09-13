@@ -4,6 +4,7 @@ tags:
   - asparath
 aliases:
   - Kingdom of Asparath
+  - KoA
 ---
 ---
 The Kingdom of Apsarath is the youngest recognised nation of Xeroth. It emerged from the political upheaval of the [[The Greylock Empire|Greylock Empire]] following its victory as the [[The Lantern-Bearers|Lantern-Bearers]] the end of [[The Unmaking]]. 
@@ -21,3 +22,5 @@ On paper, the Kingdom does feature within its borders a small portion of [[The P
 ## Relations
 
 Apsarath maintains strong relations with all countries in the continent, through repeated efforts to gain good favour and build trust. Even [[Veyrwood]], who fought alongside the Empire, maintains a neutral stance with the kingdom. 
+
+As a relatively new nation, the greater world as a whole has no established trade routes with the KoA, and so the Kingdom is very reliant on [[Merovar]] for imports and intercontinental trade.

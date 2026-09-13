@@ -1,6 +1,9 @@
 ---
 aliases:
   - Government Entities
+tags:
+  - directory
+  - faction
 ---
 ---
 The Government entities known to the party are as follows:

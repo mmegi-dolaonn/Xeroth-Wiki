@@ -1,6 +1,9 @@
 ---
 aliases:
   - Towns
+tags:
+  - town
+  - directory
 ---
 ---
 Smaller settlements, home to a small number of individuals and usually of local importance.

@@ -1,6 +1,9 @@
 ---
 aliases:
   - Factions
+tags:
+  - faction
+  - directory
 ---
 ---
 The directory for various factions across Xeroth. 

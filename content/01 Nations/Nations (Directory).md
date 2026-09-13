@@ -1,6 +1,9 @@
 ---
 aliases:
   - Nations
+tags:
+  - directory
+  - nation
 ---
 ---
 The nations of Xeroth can be found below.
