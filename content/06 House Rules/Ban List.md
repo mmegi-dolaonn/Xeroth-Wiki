@@ -3,6 +3,7 @@ tags:
   - rule
 title: Ban List
 ---
+---
 A list of non-core/homebrew spells and rules allowed/disallowed.
 
 - With few exceptions (specified later), all official materials from DnD5e source books that appear on dnd5e.wikidot.com are allowed.

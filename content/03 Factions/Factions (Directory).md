@@ -2,7 +2,7 @@
 aliases:
   - Factions
 ---
-
+---
 The directory for various factions across Xeroth. 
 
 Navigate these pages to find the relevant faction:

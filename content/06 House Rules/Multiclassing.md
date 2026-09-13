@@ -2,6 +2,7 @@
 tags:
   - rule
 ---
+---
 As a general rule, multiclassing is allowed contingent on it making sense thematically.
 
 If there is an in-game explanation for the multiclass, then it is encouraged and depending on narrative strength multiclass requirements may be bypassed on individual review.
