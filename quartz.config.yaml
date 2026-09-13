@@ -16,7 +16,6 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Cinzel
       header: Cinzel
       body: Lora
       code: IBM Plex Mono
