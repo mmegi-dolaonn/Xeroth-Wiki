@@ -9,7 +9,7 @@ aliases:
 ---
 ![[KoA Emblem.png]]
 
-The Kingdom of Apsarath is the youngest recognised nation of Xeroth. It emerged from the political upheaval of the [[The Greylock Empire|Greylock Empire]] following its victory as the [[The Lantern-Bearers|Lantern-Bearers]] the end of [[The Unmaking]]. 
+The Kingdom of Apsarath is the youngest recognised nation of Xeroth. It emerged as a direct continuation of [[The Lantern-Bearers]] after [[The Unmaking]], with the Lantern-Bearers diaspora coming together to establish itself as a new sovereign state centralised in [[Solenne]], a city built from the ashes of the old capital of the defeated [[The Greylock Empire|Greylock Empire]].
 
 ## Government 
 
@@ -25,4 +25,6 @@ On paper, the Kingdom does feature within its borders a small portion of [[The P
 
 The Kingdom maintains strong relations with most countries in the continent, through repeated efforts to gain good favour and build trust. Even [[Veyrwood]], who fought alongside the Empire, maintains a neutral stance with the kingdom. 
 
-As a relatively new nation, the greater world as a whole has no established trade routes with the KoA, and so the Kingdom is very reliant on [[Merovar]] for imports and intercontinental trade.
+Through the war, the Lantern-Bearers borrowed and relied heavily on Merovarian funding for their escapades and strategies, and so while they are a rich nation in of themselves, they are in heavy financial debt to [[Merovar]].
+
+As a relatively new nation, the greater world as a whole has no established trade routes with the KoA, and so the Kingdom is very reliant on Merovar for imports and intercontinental trade.
