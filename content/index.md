@@ -16,19 +16,19 @@ Any character-specific information will be held/communicated in the relevant pri
 
 <img src="./Attachments/Maps/Xeroth%20Clear.jpg" alt="Map of Xeroth" class="xeroth-map-image">
 
-<a class="xeroth-map-label khaldross" href="/Xeroth-Wiki/01-nations/nations/khaldross">Khaldross</a>
+<a class="xeroth-map-label khaldross" href="/01-nations/nations/khaldross">Khaldross</a>
 
-<a class="xeroth-map-label veyrwood" href="/Xeroth-Wiki/01-nations/veyrwood">Veyrwood</a>
+<a class="xeroth-map-label veyrwood" href="/01-nations/veyrwood">Veyrwood</a>
 
-<a class="xeroth-map-label rockbit" href="/Xeroth-Wiki/01-nations/rockbit-wastes">Rockbit Wastes</a>
+<a class="xeroth-map-label rockbit" href="/01-nations/rockbit-wastes">Rockbit Wastes</a>
 
-<a class="xeroth-map-label asparath" href="/Xeroth-Wiki/01-nations/the-kingdom-of-asparath">Kingdom of Asparath</a>
+<a class="xeroth-map-label asparath" href="/01-nations/the-kingdom-of-asparath">Kingdom of Asparath</a>
 
-<a class="xeroth-map-label merovar" href="'Xeroth-Wiki/01-nations/merovar">Merovar</a>
+<a class="xeroth-map-label merovar" href="/01-nations/merovar">Merovar</a>
 
-<a class="xeroth-map-label laerynn" href="/Xeroth-Wiki/01-nations/laerynn">Laerynn</a>
+<a class="xeroth-map-label laerynn" href="/01-nations/laerynn">Laerynn</a>
 
-<a class="xeroth-map-label pit" href="/Xeroth-Wiki/01-nations/the-pit">The Pit</a>
+<a class="xeroth-map-label pit" href="/01-nations/the-pit">The Pit</a>
 
 </div>
 
