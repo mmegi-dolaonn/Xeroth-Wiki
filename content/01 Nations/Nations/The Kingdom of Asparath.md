@@ -13,7 +13,7 @@ The Kingdom of Apsarath is the youngest recognised nation of Xeroth. It emerged 
 
 ## Government 
 
-Apsarath is ruled as a kingdom principally, but operates entirely under the instruction, principles and teachings of the Major God [[Asparath]]. 
+The Kingdom of Asparath is ruled under a sole monarch principally, but operates entirely under the instruction, principles and teachings of the Prime Deity [[Asparath]]. 
 
 ## Geography 
 
@@ -23,6 +23,6 @@ On paper, the Kingdom does feature within its borders a small portion of [[The P
 
 ## Relations
 
-Apsarath maintains strong relations with all countries in the continent, through repeated efforts to gain good favour and build trust. Even [[Veyrwood]], who fought alongside the Empire, maintains a neutral stance with the kingdom. 
+Apsarath maintains strong relations with most countries in the continent, through repeated efforts to gain good favour and build trust. Even [[Veyrwood]], who fought alongside the Empire, maintains a neutral stance with the kingdom. 
 
 As a relatively new nation, the greater world as a whole has no established trade routes with the KoA, and so the Kingdom is very reliant on [[Merovar]] for imports and intercontinental trade.
