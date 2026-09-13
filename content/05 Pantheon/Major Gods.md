@@ -1,1 +1,0 @@
-The Major Gods, or central pantheon, are the most powerful and ancient of the gods. 
