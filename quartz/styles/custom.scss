@@ -33,3 +33,91 @@ h6 {
 button {
   font-family: "Source Sans Pro", sans-serif !important;
 }
+
+.xeroth-interactive-map {
+  position: relative;
+  width: 100%;
+  max-width: 1100px;
+  margin: 1.5rem auto;
+}
+
+.xeroth-map-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.xeroth-map-label {
+  position: absolute;
+  transform: translate(-50%, -50%);
+
+  font-family: "Cinzel", serif !important;
+  font-weight: 700;
+  font-size: clamp(0.65rem, 1.5vw, 1.15rem);
+
+  color: #f2ead8;
+  background: rgba(23, 21, 18, 0.82);
+
+  padding: 0.3rem 0.55rem;
+  border: 1px solid rgba(199, 155, 101, 0.7);
+  border-radius: 5px;
+
+  text-decoration: none !important;
+  white-space: nowrap;
+
+  transition:
+    transform 0.15s ease,
+    background 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.xeroth-map-label:hover {
+  transform: translate(-50%, -50%) scale(1.08);
+  background: rgba(80, 55, 30, 0.95);
+  border-color: #d3b17c;
+  color: #fff;
+}
+
+/* Positions */
+
+.xeroth-map-label.khaldross {
+  left: 44%;
+  top: 15%;
+}
+
+.xeroth-map-label.veyrwood {
+  left: 28%;
+  top: 35%;
+}
+
+.xeroth-map-label.rockbit {
+  left: 63%;
+  top: 36%;
+}
+
+.xeroth-map-label.asparath {
+  left: 47%;
+  top: 52%;
+}
+
+.xeroth-map-label.merovar {
+  left: 34%;
+  top: 75%;
+}
+
+.xeroth-map-label.laerynn {
+  left: 66%;
+  top: 69%;
+}
+
+.xeroth-map-label.pit {
+  left: 49%;
+  top: 70%;
+  border-color: rgba(160, 65, 55, 0.9);
+  color: #e8b1aa;
+}
+
+.xeroth-map-label.pit:hover {
+  background: rgba(90, 30, 25, 0.95);
+}
