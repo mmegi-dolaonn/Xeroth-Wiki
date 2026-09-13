@@ -14,4 +14,4 @@ Current members of the Coalition include:
 - [[Khaldross]]
 - [[Laerynn]]
 
-With verious individual parties from the [[Rockbit Wastes]] also interacting with the Coalition.
+With various individual parties from the [[Rockbit Wastes]] also interacting with the Coalition.
