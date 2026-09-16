@@ -14,9 +14,7 @@ Khaldross is governed as an elective council, centred upon the major dwarven hol
 
 Each recognised dwarven hold and major lowland settlement appoints or elects representatives to the **Council of Holds**, which serves as Khaldross’s principal legislative body. From among eligible candidates, the Council elects a **High Chieftain** every five years to act as head of government, commander of the national military and chief representative of Khaldross abroad.
 
-Upon election, the High Chieftain appoints a small executive council responsible for areas such as defence, mining, industry, infrastructure and foreign relations. Although the Chieftain possesses significant authority during emergencies, particularly in matters of defence, most taxation, legislation and national expenditure require the approval of the Council of Holds.
-
-The Goliath population of Khaldross is considerably less centralised. Most Goliath communities organise themselves into individual clans, travelling groups or mountain settlements, each maintaining its own leadership and customs. Recognised Goliath clans are largely autonomous in internal affairs but are expected to obey Khaldrossian law when dealing with the wider state and may send representatives to the Council on matters affecting their territory.
+The Goliath population of Khaldross is ess centralised. Most Goliath communities organise themselves into individual clans, travelling groups or mountain settlements, each maintaining its own leadership and customs. Recognised Goliath clans are largely autonomous in internal affairs but are expected to obey Khaldrossian law when dealing with the wider state and may send representatives to the Council on matters affecting their territory.
 
 The southern lowlands are governed more directly by the central government. Their predominantly dwarven, human and mixed settlements maintain local councils but ultimately fall under the authority of the Council of Holds and the High Chieftain.
 

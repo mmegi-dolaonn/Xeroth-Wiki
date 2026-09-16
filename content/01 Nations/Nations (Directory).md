@@ -10,7 +10,7 @@ The nations of Xeroth can be found below.
 
 - [[The Kingdom of Asparath]]
 - [[Laerynn]]
-- [[Khaldross]]
+- [[Khaladross]]
 - [[Veyrwood]]
 - [[Merovar]]
 - [[Rockbit Wastes]]

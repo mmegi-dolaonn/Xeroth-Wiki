@@ -11,7 +11,7 @@ The Coalition for Xerothian Prosperity, most commonly referred to as 'The Coalit
 Current members of the Coalition include:
 
 - [[Merovar]]
-- [[Khaldross]]
+- [[Khaladross]]
 - [[Laerynn]]
 
 With various individual parties from the [[Rockbit Wastes]] also interacting with the Coalition.
