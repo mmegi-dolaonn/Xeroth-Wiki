@@ -3,9 +3,9 @@
 // put your custom CSS here!
 :root {
   --titleFont: "MedievalSharp", serif !important;
-  --headerFont: "Cinzel", serif !important;
-  --bodyFont: "Cinzel", serif !important;
-  --font-text: "Cinzel", serif !important;
+  --headerFont: "MedievalSharp", serif !important;
+  --bodyFont: "MedievalSharp", serif !important;
+  --font-text: "MedievalSharp", serif !important;
 }
 
 /* Big page/site titles */
@@ -21,7 +21,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Cinzel", serif !important;
+  font-family: "MedievalSharp", serif !important;
   font-weight: 700;
 }
 
