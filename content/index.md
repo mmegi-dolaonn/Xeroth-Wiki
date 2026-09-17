@@ -16,7 +16,7 @@ Any character-specific information will be held/communicated in the relevant pri
 
 <img src="./Attachments/Maps/Xeroth%20Clear.jpg" alt="Map of Xeroth" class="xeroth-map-image">
 
-<a class="xeroth-map-label khaldross" href="/01-nations/nations/khaldross">Khaldross</a>
+<a class="xeroth-map-label khaladross" href="/01-nations/nations/khaladross">Khaladross</a>
 
 <a class="xeroth-map-label veyrwood" href="/01-nations/nations/veyrwood">Veyrwood</a>
 

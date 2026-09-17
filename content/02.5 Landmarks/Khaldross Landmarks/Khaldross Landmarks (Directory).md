@@ -1,7 +1,7 @@
 ---
 tags:
   - directory
-  - khaldross
+  - khaladross
   - landmark
 aliases:
   - Khaldross Landmarks
