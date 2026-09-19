@@ -12,3 +12,5 @@ A list of known/visited cities can be seen here:
 
 - [[Solenne]]
 - [[Meadowbite]]
+- [[Khardren]]
+- [[Saltfront City]]

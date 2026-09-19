@@ -7,3 +7,7 @@ tags:
 ---
 ---
 The nation leaders known to the party are as follows:
+
+[[High Chancellor Elion Vael]]
+[[The Lightbearer]]
+[[Bryjn Stonecloak]]

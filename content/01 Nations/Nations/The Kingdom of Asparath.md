@@ -10,11 +10,11 @@ aliases:
 ![[KoA Emblem.png]]
 
 ---
-The Kingdom of Asparath is the youngest recognised nation of Xeroth. It emerged as a direct continuation of [[The Lantern-Bearers]] after [[The Unmaking]], with the Lantern-Bearers diaspora coming together to establish itself as a new sovereign state centralised in [[Solenne]], a city built from the ashes of the old capital of the defeated [[The Greylock Empire|Greylock Empire]].
+The Kingdom of Asparath is the youngest recognised nation of Xeroth. It emerged as a direct continuation of [[The Lantern-Bearers]] after [[The Unmaking]], with the Lantern-Bearers diaspora coming together to establish itself as a new sovereign state centralised in [[Solenne]], an immense, sprawling cobble and whitestone city built from the ashes of the old capital of the defeated [[The Greylock Empire|Greylock Empire]].
 
 ## Government 
 
-The Kingdom of Asparath is ruled under a sole monarch principally, but operates entirely under the instruction, principles and teachings of the Prime Deity [[Asparath]]. 
+The Kingdom of Asparath is ruled under a sole monarch principally, [[The Lightbearer]], but she and the rest of the country operates entirely under the instruction, principles and teachings of the Prime Deity [[Asparath]]. 
 
 ## Geography 
 
@@ -27,5 +27,3 @@ On paper, the Kingdom does feature within its borders a small portion of [[The P
 The Kingdom maintains strong relations with most countries in the continent, through repeated efforts to gain good favour and build trust. Even [[Veyrwood]], who fought alongside the Empire, maintains a neutral stance with the kingdom. 
 
 Through the war, the Lantern-Bearers borrowed and relied heavily on Merovarian funding for their escapades and strategies, and so while they are a rich nation in of themselves, they are in heavy financial debt to [[Merovar]].
-
-As a relatively new nation, the greater world as a whole has no established trade routes with the KoA, and so the Kingdom is very reliant on Merovar for imports and intercontinental trade.

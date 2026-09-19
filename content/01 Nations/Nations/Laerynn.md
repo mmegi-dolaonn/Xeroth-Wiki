@@ -17,7 +17,7 @@ Historically an elven nation, it has recently opened up its borders for easier i
 
  Laerynn is governed as a magocratic republic, with a lot of its political authority distributed between its major cities, magical institutions and scholarly bodies. National legislation is debated within [[The High Conclave of Laerynn]], whose members are drawn from representatives of recognised wizarding schools, bardic colleges, arcane guilds, civic governments and other institutions.
 
-The Conclave elects a High Chancellor to act as head of government and chief representative of Laerynn abroad. The Chancellor serves a fixed term and possesses large amounts of  executive authority, though major legislation, military commitments and changes to magical regulation require the approval of the Conclave.
+The Conclave elects a High Chancellor to act as head of government and chief representative of Laerynn abroad. The Chancellor serves a fixed term and possesses large amounts of  executive authority, though major legislation, military commitments and changes to magical regulation require the approval of the Conclave. The current acting Chancellor is [[High Chancellor Elion Vael]].
 
 Political divisions within Laerynn most commonly concern the regulation of magical experimentation, the autonomy of academic institutions, access to magical education and the extent to which Laerynn should share its research with the wider continent. 
 ## Geography 
